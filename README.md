@@ -1,32 +1,39 @@
-# Hi there, I'm Hafiz Reja Pratama 👋
+Hi there, I'm Hafiz Reja Pratama 👋
 
-### 🛡️ Aspiring Junior SOC Analyst (L1) | Defensive & Offensive Security Enthusiast
+🛡️ Aspiring Junior SOC Analyst (L1) | Incident Response & Threat Hunting Enthusiast
 
-Cybersecurity Graduate from **Dibimbing.id Bootcamp** with strong hands-on experience in **Defensive Security** (Log Analysis, Incident Response, Digital Forensics, SIEM) and solid understanding of **Offensive Security** (VAPT & Web Exploitation).
+Cybersecurity Graduate from Dibimbing.id Bootcamp with 7 years of High-Risk Operational Experience in the aviation industry (ULD Control Specialist assigned at PT Garuda Indonesia Tbk). Highly disciplined in SOP execution, anomaly detection, risk assessment, and fast-paced incident response.
 
----
+🎯 Core Focus & Competencies
 
-### 🎯 Core Focus & Competencies
-- 🔵 **Defensive Security:** SIEM Log Analysis, Incident Response, Artifact Investigation, Threat Hunting, MITRE ATT&CK Mapping
-- 🔴 **Offensive Security:** Web Vulnerability Assessment, OWASP Top 10, Proof-of-Concept (PoC) Exploitation, Security Hardening
-- ⚙️ **Systems & Infrastructure:** Linux Server Administration (Ubuntu, Kali Linux), Network Traffic Analysis
+🔵 Defensive Security & SOC: SIEM Log Analysis (Wazuh), Incident Response, Threat Hunting, Artifact Investigation, MITRE ATT&CK Mapping.
 
----
+🔴 Offensive Security (VAPT): Web Vulnerability Assessment, OWASP Top 10, Parameter Tampering, Business Logic Assessment, Security Hardening.
 
-### 🛠️ Tools & Technologies
-- **SIEM & Forensics:** Wazuh SIEM, Wireshark, Autopsy, Sysmon, MySQL Query Logs, Linux `auth.log`
-- **Assessment & Exploitation:** Burp Suite, Nmap, Gobuster, SQLmap, Metasploit
-- **Scripting & Environments:** Bash Scripting, Linux Terminal, Git
+⚙️ Systems & Operations: Linux Administration (Ubuntu, Kali Linux), High-Risk Operational Risk Management, Network Traffic Analysis.
 
----
+🧰 Tools & Technologies
 
-### 📌 Featured Cybersecurity Portfolio
-👉 **[View My Full Cybersecurity Portfolio Repository](https://github.com/HafizrejaXmarch/Cybersecurity-portfolio)**
-- **Project 1 (Defensive):** Digital Forensics & Wazuh SIEM Incident Investigation (`srv974671` Server)
-- **Project 2 (Offensive):** Web Application Penetration Testing & Findings Report (BimbyCart v1.0)
+SIEM & Detection: Wazuh SIEM, Elastic Stack, Linux auth.log, MySQL Query Logs.
 
----
+Network & Analysis: Wireshark, Sysmon, Autopsy, MITRE ATT&CK Framework.
 
-### 📬 Connect with Me
-- 💼 **LinkedIn:** [Hafiz Reja Pratama](https://www.linkedin.com/in/hafiz-reja-pratama-9b1373271/)
-- 📧 **GitHub:** [HafizrejaXmarch](https://github.com/HafizrejaXmarch)
+Web VAPT & Offensive: Burp Suite, Nmap, Gobuster, SQLmap.
+
+Environment & Scripting: Linux Terminal, Bash Scripting, Git.
+
+🚀 Featured Cybersecurity Portfolio
+
+🛡️ Project 1: Incident Response & Wazuh SIEM Monitoring
+
+Focus: Blue Team Log Analysis, Threat Hunting, and Correlation of SQL Injection & SSH Brute Force Attacks (Rule ID 5760).
+
+🧪 Project 2: BimbyCart v1.0 Web Application Penetration Testing
+
+Focus: Black-box Web VAPT, CVSS v3.1 Scoring, and PoC Parameter Tampering (Rp 5.500.000 ➔ Rp 1.000).
+
+📬 Connect with Me
+
+💼 LinkedIn: hafiz-reja-pratama-9b1373271
+
+🌐 Location: Jakarta, Indonesia (Open to Work / SOC Analyst L1)
