@@ -34,6 +34,6 @@ Focus: Black-box Web VAPT, CVSS v3.1 Scoring, and PoC Parameter Tampering (Rp 5.
 
 📬 Connect with Me
 
-💼 LinkedIn: hafiz-reja-pratama-9b1373271
+* 💼 **LinkedIn:** [Hafiz Reja Pratama](https://www.linkedin.com/in/hafiz-reja-pratama-9b1373271/)
 
 🌐 Location: Jakarta, Indonesia (Open to Work / SOC Analyst L1)
