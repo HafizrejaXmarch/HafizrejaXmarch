@@ -1,39 +1,18 @@
 Hi there, I'm Hafiz Reja Pratama 👋
 
-🛡️ Aspiring Junior SOC Analyst (L1) | Incident Response & Threat Hunting Enthusiast
+With over 7 years managing high-risk aviation operations as a ULD Control Specialist at PT Garuda Indonesia Tbk, I built my professional foundation on strict SOP compliance, risk mitigation, and identifying anomalies under operational pressure.
 
-Cybersecurity Graduate from Dibimbing.id Bootcamp with 7 years of High-Risk Operational Experience in the aviation industry (ULD Control Specialist assigned at PT Garuda Indonesia Tbk). Highly disciplined in SOP execution, anomaly detection, risk assessment, and fast-paced incident response.
+Combining that background with a Bachelor's in Information Technology and intensive cybersecurity training at Dibimbing.id, I transitioned into Defensive Security, focusing on Tier 1 SOC workflows, threat detection, and incident triage.
 
-🎯 Core Focus & Competencies
+I actively validate my defensive and analytical skills through hands-on labs and documented repositories:   • SIEM & Incident Detection: Deployed and tuned Wazuh SIEM to correlate Linux auth logs and MySQL queries, investigating attacks such as SSH brute-force (Rule ID 5760) and SQL Injection.
 
-🔵 Defensive Security & SOC: SIEM Log Analysis (Wazuh), Incident Response, Threat Hunting, Artifact Investigation, MITRE ATT&CK Mapping.
+• SOC Triage & IoC Extraction: Documented simulated alert triage, IoC extraction, and incident reports through the TryHackMe SOC learning path (THM-SOC-Hands-on) and malware analysis exercises.
+• Workflow Automation: Authored custom Bash scripts (recon-automation-hafizreja) to automate reconnaissance and repetitive security checks in Linux environments.
+• Endpoint & Network Forensics: Extracted disk artifacts with Autopsy, inspected network traffic in Wireshark, and monitored host-level behavior using Sysmon.
+• Offensive Security & VAPT: Executed web vulnerability assessments (e.g., BimbyCart v1.0) using Burp Suite and Nmap, identifying critical business logic issues like parameter tampering and calculating risk with CVSS v3.1.   Technical Toolkit:
+• Defensive & Monitoring: Wazuh SIEM, Elastic Stack, Sysmon, Wireshark, Autopsy, Linux auth.log
+• Automation & Systems: Bash Scripting, Linux (Ubuntu, Kali), Git
+• Offensive & Assessment: Burp Suite, Nmap, Gobuster, SQLmap, OWASP Top 10
+• Frameworks: MITRE ATT&CK, NIST SP 800-61   
 
-🔴 Offensive Security (VAPT): Web Vulnerability Assessment, OWASP Top 10, Parameter Tampering, Business Logic Assessment, Security Hardening.
-
-⚙️ Systems & Operations: Linux Administration (Ubuntu, Kali Linux), High-Risk Operational Risk Management, Network Traffic Analysis.
-
-🧰 Tools & Technologies
-
-SIEM & Detection: Wazuh SIEM, Elastic Stack, Linux auth.log, MySQL Query Logs.
-
-Network & Analysis: Wireshark, Sysmon, Autopsy, MITRE ATT&CK Framework.
-
-Web VAPT & Offensive: Burp Suite, Nmap, Gobuster, SQLmap.
-
-Environment & Scripting: Linux Terminal, Bash Scripting, Git.
-
-🚀 Featured Cybersecurity Portfolio
-
-🛡️ Project 1: Incident Response & Wazuh SIEM Monitoring
-
-Focus: Blue Team Log Analysis, Threat Hunting, and Correlation of SQL Injection & SSH Brute Force Attacks (Rule ID 5760).
-
-🧪 Project 2: BimbyCart v1.0 Web Application Penetration Testing
-
-Focus: Black-box Web VAPT, CVSS v3.1 Scoring, and PoC Parameter Tampering (Rp 5.500.000 ➔ Rp 1.000).
-
-📬 Connect with Me
-
-💼 **LinkedIn:** [Hafiz Reja Pratama](https://www.linkedin.com/in/hafiz-reja-pratama-9b1373271/)
-
-🌐 Location: Jakarta, Indonesia (Open to Work / SOC Analyst L1)
+Full project write-ups, custom scripts, and lab notes are documented on my GitHub:https://github.com/HafizrejaXmarch
