@@ -15,4 +15,4 @@ I actively validate my defensive and analytical skills through hands-on labs and
 • Offensive & Assessment: Burp Suite, Nmap, Gobuster, SQLmap, OWASP Top 10
 • Frameworks: MITRE ATT&CK, NIST SP 800-61   
 
-Full project write-ups, custom scripts, and lab notes are documented on my GitHub:https://github.com/HafizrejaXmarch
+Full project write-ups, custom scripts, and lab notes are documented on my GitHub: https://github.com/HafizrejaXmarch
